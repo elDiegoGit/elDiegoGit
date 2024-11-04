@@ -2,7 +2,7 @@
 
 ### About Me:
 - I'm an Economist with interests in Macroeconomics, International Finance and Time Series analysis. 
-- Here you will find the latest version of the models and scripts I've worked on.
+- Here you will find the latest version of the models and scripts I've worked on, including replication files for published papers.
 
 <!--
 **elDiegoGit/elDiegoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
