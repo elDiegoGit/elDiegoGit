@@ -1,7 +1,7 @@
 ## Welcome to my Git repository 👋
 
 ### About Me:
-- I'm an Economist with interests in Macroeconomics, International Economics and Finance and Time Series analysis. 
+- I'm an Economist with interests in Macroeconomics, International Economics and Finance, and Time Series analysis. 
 - Here you will find the latest version of the models and scripts I've worked on, including replication files for published papers.
 
 <!--
